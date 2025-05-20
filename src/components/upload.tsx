@@ -67,7 +67,7 @@ export default function FileUpload({
           <h2 className="text-lg font-semibold mb-2">Preview</h2>
           <table className="w-full border">
             <thead>
-              <tr className="bg-gray-200">
+              <tr className="bg-black-200">
                 <th className="p-2 border">Image</th>
                 <th className="p-2 border">Name</th>
                 <th className="p-2 border">Size</th>
